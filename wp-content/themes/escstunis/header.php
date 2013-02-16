@@ -40,9 +40,10 @@
 <![endif]-->
 
  <link rel="stylesheet" href="<?php echo get_bloginfo('stylesheet_directory'); ?>/stylesheets/foundation.min.css">
-  <link rel="stylesheet" href="<?php echo get_bloginfo('stylesheet_directory'); ?>/stylesheets/app.css">
+  <link rel="stylesheet" href="<?php echo get_bloginfo('stylesheet_directory'); ?>/stylesheets/app.css"> 
+	<script src="<?php echo get_bloginfo('stylesheet_directory'); ?>/javascripts/modernizr.foundation.js"></script>
 
-  <script src="<?php echo get_bloginfo('stylesheet_directory'); ?>/javascripts/modernizr.foundation.js"></script>
+
 
 <?php wp_head(); ?>
 

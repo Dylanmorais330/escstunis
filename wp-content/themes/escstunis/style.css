@@ -789,3 +789,20 @@ object {
 	padding-bottom: 10px;
 }
 
+.socialmedia-buttons {
+	float: right;
+	margin-right: 10px;
+}
+
+
+/*----- Footer ----*/
+
+.site-footer {
+	background-color: #4d4d4d;
+	min-height: 170px;
+}
+
+.slider-wrapper { 
+	width: 80%; 
+	margin: 100px auto;
+}

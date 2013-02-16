@@ -12,7 +12,7 @@
 		<h1 class="entry-title"><?php the_title(); ?></h1>
 	</header><!-- .entry-header -->
 
-
+<h1>Estamos na página de contactos</h1>
 	<div class="slider-wrapper theme-default">
             <div id="slider" class="nivoSlider">
                 <img src="http://1.bp.blogspot.com/-SWWZ7vOsPcg/TfEUzxRZEZI/AAAAAAAAL_4/btQOrRzYsM8/s1600/a.jpg" data-thumb="http://1.bp.blogspot.com/-SWWZ7vOsPcg/TfEUzxRZEZI/AAAAAAAAL_4/btQOrRzYsM8/s1600/a.jpg" alt="" />
